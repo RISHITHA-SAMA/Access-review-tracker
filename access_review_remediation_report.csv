@@ -1,0 +1,65 @@
+user_id,department,application,access_level,account_created,last_login,days_since_login,manager_approved,employment_status,violation_type,recommended_action
+U1005,Finance,GL-SAP,Read-Only,2024-11-20,2025-08-17,400,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1018,Engineering,Trade-Finance-App,Privileged Admin,2023-11-02,2026-01-21,243,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1020,Finance,HR-Workday,Privileged Admin,2024-12-15,2026-01-16,248,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1021,Finance,Payments-Core,Standard User,2023-06-25,2025-09-23,363,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1022,Risk & Compliance,CRM-Salesforce,Read-Only,2025-01-13,2025-11-18,307,No,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1027,Sales,CRM-Salesforce,Privileged Admin,2025-05-13,2026-03-17,188,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1029,Sales,Data-Warehouse,Read-Only,2025-02-02,2026-02-15,218,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1031,Risk & Compliance,Payments-Core,Read-Only,2025-05-14,2026-06-15,98,No,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1033,Sales,HR-Workday,Privileged Admin,2024-06-10,2026-01-27,237,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1037,Engineering,GL-SAP,Read-Only,2024-01-03,2026-02-16,217,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1040,Finance,Payments-Core,Standard User,2025-06-03,2026-05-02,142,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1041,Engineering,HR-Workday,Privileged Admin,2024-10-30,2025-12-15,280,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1042,IT Operations,HR-Workday,Standard User,2025-08-09,2025-09-25,361,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1047,IT Operations,CRM-Salesforce,Standard User,2024-01-30,2025-08-28,389,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1048,HR,HR-Workday,Privileged Admin,2024-08-16,2026-06-02,111,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1049,Finance,HR-Workday,Privileged Admin,2023-11-21,2025-11-26,299,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1050,Engineering,CRM-Salesforce,Super Admin,2025-07-23,2025-11-23,302,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1051,Sales,Data-Warehouse,Privileged Admin,2025-03-07,2026-02-06,227,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1052,Finance,GL-SAP,Read-Only,2024-08-24,2025-10-30,326,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1055,HR,CRM-Salesforce,Standard User,2025-04-28,2026-06-03,110,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1058,HR,Trade-Finance-App,Read-Only,2024-03-16,2026-01-20,244,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1064,Risk & Compliance,Payments-Core,Standard User,2025-01-30,2025-09-01,385,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1066,Sales,CRM-Salesforce,Read-Only,2024-04-29,2025-09-30,356,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1068,Sales,Trade-Finance-App,Privileged Admin,2024-02-03,2025-11-16,309,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1077,Finance,Data-Warehouse,Standard User,2025-06-27,2026-03-21,184,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1078,Sales,HR-Workday,Read-Only,2023-07-09,2026-01-31,233,No,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1080,IT Operations,Payments-Core,Privileged Admin,2025-07-28,2026-03-12,193,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1081,Sales,Data-Warehouse,Read-Only,2023-09-01,2025-10-27,329,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1083,Finance,HR-Workday,Standard User,2024-07-07,2025-12-12,283,No,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1086,HR,Payments-Core,Privileged Admin,2024-05-31,2026-04-29,145,No,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1088,Risk & Compliance,GL-SAP,Standard User,2024-11-16,2025-08-23,394,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1102,Risk & Compliance,GL-SAP,Standard User,2023-06-15,2026-02-27,206,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1103,Sales,HR-Workday,Privileged Admin,2024-01-13,2026-01-17,247,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1107,IT Operations,Trade-Finance-App,Standard User,2025-04-22,2025-11-17,308,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1122,Engineering,Trade-Finance-App,Standard User,2024-11-08,2026-05-18,126,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1125,Sales,GL-SAP,Super Admin,2024-01-10,2026-02-20,213,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1129,Engineering,Payments-Core,Standard User,2023-11-18,2025-12-31,264,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1137,HR,Trade-Finance-App,Read-Only,2024-05-07,2026-02-14,219,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1140,Risk & Compliance,Data-Warehouse,Standard User,2023-06-15,2026-01-27,237,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1143,HR,Data-Warehouse,Read-Only,2023-07-14,2026-01-06,258,Yes,Active,Dormant Account,Confirm with manager whether access is still required; disable if unused for 90+ days.
+U1006,Risk & Compliance,Payments-Core,Super Admin,2024-10-21,2026-08-17,35,Yes,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1076,Sales,CRM-Salesforce,Super Admin,2024-07-10,2026-07-25,58,Yes,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1082,Risk & Compliance,Trade-Finance-App,Super Admin,2025-03-03,2026-08-03,49,No,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1100,Finance,HR-Workday,Super Admin,2025-06-12,2026-07-31,52,Yes,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1111,Finance,CRM-Salesforce,Super Admin,2023-12-25,2025-09-01,385,No,Terminated,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1113,HR,CRM-Salesforce,Super Admin,2024-04-01,2026-07-31,52,No,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1120,Finance,GL-SAP,Super Admin,2024-03-25,2026-09-12,9,No,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1125,Sales,GL-SAP,Super Admin,2024-01-10,2026-02-20,213,Yes,Active,Segregation of Duties (SoD) Flag,Review business justification; Super Admin access outside IT/Engineering requires explicit SoD exception approval.
+U1007,HR,Trade-Finance-App,Read-Only,2024-12-27,2026-08-10,42,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1015,IT Operations,GL-SAP,Standard User,2024-04-25,2026-08-14,38,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1053,Engineering,CRM-Salesforce,Read-Only,2024-11-05,2026-08-31,21,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1057,Sales,Payments-Core,Standard User,2024-08-10,2026-03-14,191,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1063,Engineering,Data-Warehouse,Read-Only,2025-07-23,2026-04-08,166,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1067,Finance,GL-SAP,Read-Only,2024-01-23,2026-08-19,33,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1111,Finance,CRM-Salesforce,Super Admin,2023-12-25,2025-09-01,385,No,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1119,Engineering,Data-Warehouse,Read-Only,2024-06-26,2026-08-17,35,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1139,Finance,Data-Warehouse,Read-Only,2023-09-15,2026-07-28,55,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1144,Risk & Compliance,HR-Workday,Standard User,2024-11-27,2026-03-30,175,No,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1145,HR,Data-Warehouse,Privileged Admin,2025-06-01,2025-10-26,330,Yes,Terminated,Terminated User - Access Not Revoked,URGENT: Trigger Straight-Through Revocation (STR) immediately.
+U1082,Risk & Compliance,Trade-Finance-App,Super Admin,2025-03-03,2026-08-03,49,No,Active,Unapproved Privileged Access,Escalate to manager for retroactive approval or revoke access.
+U1086,HR,Payments-Core,Privileged Admin,2024-05-31,2026-04-29,145,No,Active,Unapproved Privileged Access,Escalate to manager for retroactive approval or revoke access.
+U1111,Finance,CRM-Salesforce,Super Admin,2023-12-25,2025-09-01,385,No,Terminated,Unapproved Privileged Access,Escalate to manager for retroactive approval or revoke access.
+U1113,HR,CRM-Salesforce,Super Admin,2024-04-01,2026-07-31,52,No,Active,Unapproved Privileged Access,Escalate to manager for retroactive approval or revoke access.
+U1120,Finance,GL-SAP,Super Admin,2024-03-25,2026-09-12,9,No,Active,Unapproved Privileged Access,Escalate to manager for retroactive approval or revoke access.

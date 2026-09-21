@@ -1,0 +1,151 @@
+user_id,department,application,access_level,account_created,last_login,days_since_login,manager_approved,employment_status
+U1001,IT Operations,Payments-Core,Read-Only,2025-03-28,2026-09-07,14,Yes,Active
+U1002,Risk & Compliance,Payments-Core,Standard User,2025-01-06,2026-09-16,5,Yes,Active
+U1003,Risk & Compliance,CRM-Salesforce,Standard User,2025-01-04,2026-08-26,26,Yes,Active
+U1004,Finance,CRM-Salesforce,Standard User,2025-01-09,2026-09-12,9,No,Active
+U1005,Finance,GL-SAP,Read-Only,2024-11-20,2025-08-17,400,Yes,Active
+U1006,Risk & Compliance,Payments-Core,Super Admin,2024-10-21,2026-08-17,35,Yes,Active
+U1007,HR,Trade-Finance-App,Read-Only,2024-12-27,2026-08-10,42,Yes,Terminated
+U1008,Engineering,Payments-Core,Read-Only,2024-08-09,2026-07-30,53,Yes,Active
+U1009,IT Operations,HR-Workday,Standard User,2023-12-03,2026-09-17,4,Yes,Active
+U1010,Engineering,CRM-Salesforce,Standard User,2023-11-01,2026-07-24,59,Yes,Active
+U1011,HR,Payments-Core,Read-Only,2024-07-03,2026-09-01,20,Yes,Active
+U1012,Risk & Compliance,Data-Warehouse,Read-Only,2023-10-29,2026-08-27,25,Yes,Active
+U1013,Engineering,Data-Warehouse,Standard User,2024-06-05,2026-08-15,37,No,Active
+U1014,Engineering,CRM-Salesforce,Standard User,2025-04-27,2026-09-18,3,Yes,Active
+U1015,IT Operations,GL-SAP,Standard User,2024-04-25,2026-08-14,38,Yes,Terminated
+U1016,Finance,Data-Warehouse,Standard User,2023-07-11,2026-08-18,34,Yes,Active
+U1017,Finance,HR-Workday,Standard User,2023-08-12,2026-08-06,46,Yes,Active
+U1018,Engineering,Trade-Finance-App,Privileged Admin,2023-11-02,2026-01-21,243,Yes,Active
+U1019,HR,CRM-Salesforce,Standard User,2025-08-17,2026-08-19,33,Yes,Active
+U1020,Finance,HR-Workday,Privileged Admin,2024-12-15,2026-01-16,248,Yes,Active
+U1021,Finance,Payments-Core,Standard User,2023-06-25,2025-09-23,363,Yes,Active
+U1022,Risk & Compliance,CRM-Salesforce,Read-Only,2025-01-13,2025-11-18,307,No,Active
+U1023,IT Operations,CRM-Salesforce,Standard User,2023-10-22,2026-08-10,42,Yes,Active
+U1024,Sales,Payments-Core,Read-Only,2023-12-24,2026-09-20,1,Yes,Active
+U1025,Finance,Payments-Core,Standard User,2025-07-16,2026-09-17,4,Yes,Active
+U1026,Engineering,HR-Workday,Standard User,2023-08-08,2026-09-13,8,No,Active
+U1027,Sales,CRM-Salesforce,Privileged Admin,2025-05-13,2026-03-17,188,Yes,Active
+U1028,Sales,GL-SAP,Standard User,2023-10-18,2026-08-09,43,No,Active
+U1029,Sales,Data-Warehouse,Read-Only,2025-02-02,2026-02-15,218,Yes,Active
+U1030,Sales,CRM-Salesforce,Read-Only,2025-06-01,2026-07-24,59,Yes,Active
+U1031,Risk & Compliance,Payments-Core,Read-Only,2025-05-14,2026-06-15,98,No,Active
+U1032,Engineering,GL-SAP,Standard User,2025-06-18,2026-08-27,25,Yes,Active
+U1033,Sales,HR-Workday,Privileged Admin,2024-06-10,2026-01-27,237,Yes,Active
+U1034,Risk & Compliance,Data-Warehouse,Standard User,2025-01-07,2026-09-03,18,No,Active
+U1035,Risk & Compliance,Payments-Core,Standard User,2024-04-16,2026-08-15,37,Yes,Active
+U1036,Engineering,Payments-Core,Super Admin,2025-06-08,2026-09-10,11,Yes,Active
+U1037,Engineering,GL-SAP,Read-Only,2024-01-03,2026-02-16,217,Yes,Active
+U1038,Sales,Data-Warehouse,Standard User,2024-11-23,2026-07-24,59,Yes,Active
+U1039,Engineering,HR-Workday,Read-Only,2024-05-06,2026-09-02,19,Yes,Active
+U1040,Finance,Payments-Core,Standard User,2025-06-03,2026-05-02,142,Yes,Active
+U1041,Engineering,HR-Workday,Privileged Admin,2024-10-30,2025-12-15,280,Yes,Active
+U1042,IT Operations,HR-Workday,Standard User,2025-08-09,2025-09-25,361,Yes,Active
+U1043,IT Operations,Payments-Core,Super Admin,2025-04-30,2026-09-14,7,Yes,Active
+U1044,HR,Trade-Finance-App,Read-Only,2023-11-07,2026-08-09,43,Yes,Active
+U1045,HR,Payments-Core,Read-Only,2025-07-03,2026-09-04,17,Yes,Active
+U1046,IT Operations,HR-Workday,Read-Only,2024-06-06,2026-08-07,45,Yes,Active
+U1047,IT Operations,CRM-Salesforce,Standard User,2024-01-30,2025-08-28,389,Yes,Active
+U1048,HR,HR-Workday,Privileged Admin,2024-08-16,2026-06-02,111,Yes,Active
+U1049,Finance,HR-Workday,Privileged Admin,2023-11-21,2025-11-26,299,Yes,Active
+U1050,Engineering,CRM-Salesforce,Super Admin,2025-07-23,2025-11-23,302,Yes,Active
+U1051,Sales,Data-Warehouse,Privileged Admin,2025-03-07,2026-02-06,227,Yes,Active
+U1052,Finance,GL-SAP,Read-Only,2024-08-24,2025-10-30,326,Yes,Active
+U1053,Engineering,CRM-Salesforce,Read-Only,2024-11-05,2026-08-31,21,Yes,Terminated
+U1054,HR,HR-Workday,Standard User,2024-02-15,2026-07-30,53,Yes,Active
+U1055,HR,CRM-Salesforce,Standard User,2025-04-28,2026-06-03,110,Yes,Active
+U1056,HR,GL-SAP,Standard User,2024-01-05,2026-08-28,24,Yes,Active
+U1057,Sales,Payments-Core,Standard User,2024-08-10,2026-03-14,191,Yes,Terminated
+U1058,HR,Trade-Finance-App,Read-Only,2024-03-16,2026-01-20,244,Yes,Active
+U1059,Sales,Data-Warehouse,Read-Only,2023-10-07,2026-08-26,26,No,Active
+U1060,Engineering,Trade-Finance-App,Standard User,2025-08-17,2026-07-30,53,Yes,Active
+U1061,Risk & Compliance,Trade-Finance-App,Standard User,2023-09-26,2026-08-24,28,Yes,Active
+U1062,IT Operations,CRM-Salesforce,Standard User,2023-11-08,2026-08-10,42,Yes,Active
+U1063,Engineering,Data-Warehouse,Read-Only,2025-07-23,2026-04-08,166,Yes,Terminated
+U1064,Risk & Compliance,Payments-Core,Standard User,2025-01-30,2025-09-01,385,Yes,Active
+U1065,Sales,CRM-Salesforce,Read-Only,2023-07-11,2026-07-26,57,Yes,Active
+U1066,Sales,CRM-Salesforce,Read-Only,2024-04-29,2025-09-30,356,Yes,Active
+U1067,Finance,GL-SAP,Read-Only,2024-01-23,2026-08-19,33,Yes,Terminated
+U1068,Sales,Trade-Finance-App,Privileged Admin,2024-02-03,2025-11-16,309,Yes,Active
+U1069,Sales,GL-SAP,Read-Only,2024-11-07,2026-08-12,40,Yes,Active
+U1070,IT Operations,CRM-Salesforce,Read-Only,2024-12-20,2026-09-03,18,Yes,Active
+U1071,Risk & Compliance,Payments-Core,Read-Only,2025-03-14,2026-08-08,44,Yes,Active
+U1072,Sales,HR-Workday,Standard User,2024-06-13,2026-09-08,13,Yes,Active
+U1073,IT Operations,Payments-Core,Privileged Admin,2024-04-16,2026-08-28,24,Yes,Active
+U1074,Sales,GL-SAP,Standard User,2023-12-09,2026-08-01,51,No,Active
+U1075,HR,GL-SAP,Standard User,2023-09-22,2026-08-10,42,Yes,Active
+U1076,Sales,CRM-Salesforce,Super Admin,2024-07-10,2026-07-25,58,Yes,Active
+U1077,Finance,Data-Warehouse,Standard User,2025-06-27,2026-03-21,184,Yes,Active
+U1078,Sales,HR-Workday,Read-Only,2023-07-09,2026-01-31,233,No,Active
+U1079,Finance,GL-SAP,Read-Only,2024-08-24,2026-07-23,60,Yes,Active
+U1080,IT Operations,Payments-Core,Privileged Admin,2025-07-28,2026-03-12,193,Yes,Active
+U1081,Sales,Data-Warehouse,Read-Only,2023-09-01,2025-10-27,329,Yes,Active
+U1082,Risk & Compliance,Trade-Finance-App,Super Admin,2025-03-03,2026-08-03,49,No,Active
+U1083,Finance,HR-Workday,Standard User,2024-07-07,2025-12-12,283,No,Active
+U1084,Risk & Compliance,Data-Warehouse,Privileged Admin,2023-06-18,2026-08-08,44,Yes,Active
+U1085,Finance,Trade-Finance-App,Privileged Admin,2023-10-10,2026-08-25,27,Yes,Active
+U1086,HR,Payments-Core,Privileged Admin,2024-05-31,2026-04-29,145,No,Active
+U1087,Sales,Data-Warehouse,Read-Only,2023-10-21,2026-08-19,33,Yes,Active
+U1088,Risk & Compliance,GL-SAP,Standard User,2024-11-16,2025-08-23,394,Yes,Active
+U1089,Finance,HR-Workday,Privileged Admin,2024-01-12,2026-08-23,29,Yes,Active
+U1090,Finance,GL-SAP,Privileged Admin,2024-08-19,2026-09-08,13,Yes,Active
+U1091,Risk & Compliance,Data-Warehouse,Privileged Admin,2025-02-03,2026-08-19,33,Yes,Active
+U1092,Sales,Trade-Finance-App,Privileged Admin,2023-08-20,2026-08-11,41,Yes,Active
+U1093,Finance,HR-Workday,Read-Only,2023-10-08,2026-09-02,19,Yes,Active
+U1094,Risk & Compliance,HR-Workday,Standard User,2024-08-22,2026-08-31,21,Yes,Active
+U1095,HR,CRM-Salesforce,Read-Only,2023-07-19,2026-09-14,7,Yes,Active
+U1096,Engineering,CRM-Salesforce,Read-Only,2023-12-23,2026-08-06,46,No,Active
+U1097,HR,Payments-Core,Privileged Admin,2025-02-15,2026-08-29,23,Yes,Active
+U1098,Engineering,HR-Workday,Read-Only,2023-09-03,2026-09-03,18,No,Active
+U1099,Sales,Payments-Core,Privileged Admin,2024-04-14,2026-08-22,30,Yes,Active
+U1100,Finance,HR-Workday,Super Admin,2025-06-12,2026-07-31,52,Yes,Active
+U1101,IT Operations,Data-Warehouse,Read-Only,2024-10-10,2026-08-16,36,Yes,Active
+U1102,Risk & Compliance,GL-SAP,Standard User,2023-06-15,2026-02-27,206,Yes,Active
+U1103,Sales,HR-Workday,Privileged Admin,2024-01-13,2026-01-17,247,Yes,Active
+U1104,IT Operations,Payments-Core,Super Admin,2024-11-20,2026-09-08,13,Yes,Active
+U1105,Engineering,Trade-Finance-App,Read-Only,2023-09-12,2026-08-24,28,Yes,Active
+U1106,Engineering,HR-Workday,Standard User,2025-06-06,2026-08-23,29,Yes,Active
+U1107,IT Operations,Trade-Finance-App,Standard User,2025-04-22,2025-11-17,308,Yes,Active
+U1108,HR,CRM-Salesforce,Read-Only,2023-12-17,2026-09-02,19,Yes,Active
+U1109,HR,GL-SAP,Read-Only,2024-07-01,2026-08-08,44,No,Active
+U1110,Sales,GL-SAP,Read-Only,2023-07-27,2026-08-25,27,Yes,Active
+U1111,Finance,CRM-Salesforce,Super Admin,2023-12-25,2025-09-01,385,No,Terminated
+U1112,IT Operations,HR-Workday,Standard User,2024-04-23,2026-09-10,11,Yes,Active
+U1113,HR,CRM-Salesforce,Super Admin,2024-04-01,2026-07-31,52,No,Active
+U1114,Sales,HR-Workday,Read-Only,2024-09-14,2026-09-11,10,Yes,Active
+U1115,IT Operations,GL-SAP,Privileged Admin,2025-05-19,2026-08-23,29,Yes,Active
+U1116,Sales,Trade-Finance-App,Privileged Admin,2024-02-09,2026-07-28,55,Yes,Active
+U1117,Risk & Compliance,HR-Workday,Standard User,2023-07-01,2026-08-24,28,Yes,Active
+U1118,Engineering,HR-Workday,Standard User,2025-07-19,2026-09-14,7,No,Active
+U1119,Engineering,Data-Warehouse,Read-Only,2024-06-26,2026-08-17,35,Yes,Terminated
+U1120,Finance,GL-SAP,Super Admin,2024-03-25,2026-09-12,9,No,Active
+U1121,IT Operations,HR-Workday,Standard User,2024-12-11,2026-08-22,30,Yes,Active
+U1122,Engineering,Trade-Finance-App,Standard User,2024-11-08,2026-05-18,126,Yes,Active
+U1123,HR,Trade-Finance-App,Read-Only,2024-10-16,2026-08-06,46,Yes,Active
+U1124,IT Operations,GL-SAP,Privileged Admin,2024-08-29,2026-08-22,30,Yes,Active
+U1125,Sales,GL-SAP,Super Admin,2024-01-10,2026-02-20,213,Yes,Active
+U1126,Sales,Payments-Core,Read-Only,2024-07-23,2026-07-25,58,Yes,Active
+U1127,IT Operations,CRM-Salesforce,Standard User,2023-12-22,2026-08-20,32,Yes,Active
+U1128,Sales,Payments-Core,Standard User,2025-03-23,2026-08-06,46,Yes,Active
+U1129,Engineering,Payments-Core,Standard User,2023-11-18,2025-12-31,264,Yes,Active
+U1130,HR,Data-Warehouse,Privileged Admin,2023-11-15,2026-09-01,20,Yes,Active
+U1131,Risk & Compliance,Payments-Core,Standard User,2024-10-27,2026-08-09,43,No,Active
+U1132,Sales,Payments-Core,Privileged Admin,2024-05-20,2026-09-15,6,Yes,Active
+U1133,Finance,Payments-Core,Read-Only,2024-07-30,2026-08-30,22,Yes,Active
+U1134,Sales,Trade-Finance-App,Standard User,2025-05-29,2026-09-10,11,Yes,Active
+U1135,IT Operations,CRM-Salesforce,Standard User,2024-05-02,2026-09-07,14,Yes,Active
+U1136,IT Operations,Payments-Core,Privileged Admin,2023-09-24,2026-09-03,18,Yes,Active
+U1137,HR,Trade-Finance-App,Read-Only,2024-05-07,2026-02-14,219,Yes,Active
+U1138,Sales,GL-SAP,Read-Only,2024-01-07,2026-08-30,22,Yes,Active
+U1139,Finance,Data-Warehouse,Read-Only,2023-09-15,2026-07-28,55,Yes,Terminated
+U1140,Risk & Compliance,Data-Warehouse,Standard User,2023-06-15,2026-01-27,237,Yes,Active
+U1141,HR,CRM-Salesforce,Standard User,2023-07-06,2026-08-09,43,Yes,Active
+U1142,Engineering,Data-Warehouse,Read-Only,2024-10-05,2026-09-19,2,Yes,Active
+U1143,HR,Data-Warehouse,Read-Only,2023-07-14,2026-01-06,258,Yes,Active
+U1144,Risk & Compliance,HR-Workday,Standard User,2024-11-27,2026-03-30,175,No,Terminated
+U1145,HR,Data-Warehouse,Privileged Admin,2025-06-01,2025-10-26,330,Yes,Terminated
+U1146,IT Operations,Data-Warehouse,Standard User,2024-01-25,2026-07-29,54,Yes,Active
+U1147,Finance,HR-Workday,Standard User,2023-07-13,2026-08-09,43,Yes,Active
+U1148,IT Operations,HR-Workday,Read-Only,2023-11-22,2026-09-20,1,No,Active
+U1149,Risk & Compliance,CRM-Salesforce,Standard User,2023-08-31,2026-08-23,29,Yes,Active
+U1150,Engineering,Payments-Core,Super Admin,2025-04-21,2026-08-21,31,Yes,Active
